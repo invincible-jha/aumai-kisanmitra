@@ -1,0 +1,4 @@
+# file: M:\Project DarkMatter\workspace\aumai-kisanmitra\src\aumai_kisanmitra\cli.py
+# hypothesis_version: 6.151.9
+
+[800.0, 1000.0, 1200.0, 1600.0, 1700.0, 1750.0, 1800.0, 1900.0, 1950.0, 2000.0, 2050.0, 2100.0, 2150.0, 2200.0, 2300.0, 2350.0, 5900.0, 6000.0, 6300.0, 6400.0, 6700.0, 6800.0, 8000, '\nSources:', '   Prevention:', '   Treatment:', ',', '-', '--commodity', '--crop', '--host', '--language', '--location', '--port', '--query', '--state', '--symptoms', '.', '127.0.0.1', 'Agra', 'Akola', 'Azadpur', 'Bihar', 'Delhi', 'Host to bind to', 'Language code', 'Lucknow', 'Maharashtra', 'Nashik', 'Patna', 'Port to serve on', 'Telangana', 'UP', 'Warangal', '__main__', 'ask', 'cotton', 'en', 'onion', 'pest', 'potato', 'prices', 'rice', 'serve', 'wheat']
